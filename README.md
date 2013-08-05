@@ -11,3 +11,7 @@ Versions
 
 - Python version is built using Tkinter.
 - Clojure version is in progress.
+
+What it Looks Like
+-------------------
+![Screenshot](http://j-wang.net/images/posts/python_texteditor.png)
